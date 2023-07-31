@@ -1,0 +1,4 @@
+﻿Model Name: Random Forest Regression
+Features: Max Depth: 15, min_samples_leaf: 2, Min_samples_split: 2, n_estimators: 150
+RMSE: 25,809.45
+R-squared: 0.8547
